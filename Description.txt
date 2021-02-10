@@ -1,0 +1,6 @@
+This is a simple program .
+The task of this project is to calculate the number of routes
+from point A to B in a grid-shaped city ,
+taking into account the failure of one of the intersections.
+See attached photo for more help.
+this is just for fun :)
